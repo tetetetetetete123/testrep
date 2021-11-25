@@ -41,4 +41,4 @@
 
 [GIT](https://github.com/tetetetetetete123/testrep/blob/master/REMEND.me)
 
-![oeitu.png](https://i.loli.net/2021/11/25/MrUkNASvPFmly86.png)
+
