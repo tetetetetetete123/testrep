@@ -41,4 +41,4 @@
 
 [GIT](https://github.com/tetetetetetete123/testrep/blob/master/REMEND.me)
 
-![配图](https://tse2-mm.cn.bing.net/th/id/OIP-C.VN5jjFb2UPyD4AM9X03vKAAAAA?w=208&h=208&c=7&r=0&o=5&dpr=1.1&pid=1.7)
+![运算符优先级.png](https://i.loli.net/2021/11/25/MrUkNASvPFmly86.png)
