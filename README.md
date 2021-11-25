@@ -24,11 +24,11 @@
 * 音频处理
 * 图像处理 
 
-1. 深入学习
-  1. 神经网络模型
-    1. 状态机
-2. 音频处理
-3. 图像处理 
+1.	深入学习
+  1.	神经网络模型
+    1.	状态机
+2.	音频处理
+3.	图像处理 
 
 > 一级引用文本
 >> 二级引用文本
@@ -41,4 +41,4 @@
 
 [GIT](https://github.com/tetetetetetete123/testrep/blob/master/REMEND.me)
 
-
+![运算符优先级.png](https://i.loli.net/2021/11/25/MrUkNASvPFmly86.png)
