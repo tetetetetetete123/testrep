@@ -34,11 +34,3 @@
 >> 二级引用文本
 >>> 三级引用文本
 >>>> 四级引用文本
-
-[GITHUB][1]
-
-[1]:https://github.com/tetetetetetete123/testrep/blob/master/REMEND.me
-
-[GIT](https://github.com/tetetetetetete123/testrep/blob/master/REMEND.me)
-
-![运算符优先级.png](https://i.loli.net/2021/11/25/MrUkNASvPFmly86.png)
